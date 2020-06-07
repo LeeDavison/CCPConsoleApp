@@ -7,6 +7,6 @@ For test is hardcoded to look for, and process any, .csv files found in :
 
 C:\CSVFiles
 
-Couple of sample files attached including 100 line test file.
+Couple of sample files attached including 1000 line test file.
 
 Cheers, Lee
