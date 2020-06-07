@@ -1,0 +1,13 @@
+C:\Projects\CCPConsoleApp\CCPConsoleApp\obj\Debug\netcoreapp3.1\CCPConsoleApp.csprojAssemblyReference.cache
+C:\Projects\CCPConsoleApp\CCPConsoleApp\obj\Debug\netcoreapp3.1\CCPConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\CCPConsoleApp\CCPConsoleApp\obj\Debug\netcoreapp3.1\CCPConsoleApp.AssemblyInfo.cs
+C:\Projects\CCPConsoleApp\CCPConsoleApp\obj\Debug\netcoreapp3.1\CCPConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\CCPConsoleApp\CCPConsoleApp\bin\Debug\netcoreapp3.1\CCPConsoleApp.exe
+C:\Projects\CCPConsoleApp\CCPConsoleApp\bin\Debug\netcoreapp3.1\CCPConsoleApp.deps.json
+C:\Projects\CCPConsoleApp\CCPConsoleApp\bin\Debug\netcoreapp3.1\CCPConsoleApp.runtimeconfig.json
+C:\Projects\CCPConsoleApp\CCPConsoleApp\bin\Debug\netcoreapp3.1\CCPConsoleApp.runtimeconfig.dev.json
+C:\Projects\CCPConsoleApp\CCPConsoleApp\bin\Debug\netcoreapp3.1\CCPConsoleApp.dll
+C:\Projects\CCPConsoleApp\CCPConsoleApp\bin\Debug\netcoreapp3.1\CCPConsoleApp.pdb
+C:\Projects\CCPConsoleApp\CCPConsoleApp\obj\Debug\netcoreapp3.1\CCPConsoleApp.dll
+C:\Projects\CCPConsoleApp\CCPConsoleApp\obj\Debug\netcoreapp3.1\CCPConsoleApp.pdb
+C:\Projects\CCPConsoleApp\CCPConsoleApp\obj\Debug\netcoreapp3.1\CCPConsoleApp.genruntimeconfig.cache
